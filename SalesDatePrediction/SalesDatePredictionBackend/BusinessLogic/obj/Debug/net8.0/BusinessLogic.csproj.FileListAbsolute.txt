@@ -1,0 +1,34 @@
+C:\Users\User\source\repos\Sales Date Prediction\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Sales Date Prediction\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Sales Date Prediction\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Sales Date Prediction\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\User\source\repos\Sales Date Prediction\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sales Date Prediction\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+C:\Users\User\source\repos\Sales Date Prediction\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+C:\Users\User\source\repos\Sales Date Prediction\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+C:\Users\User\source\repos\Sales Date Prediction\BusinessLogic\bin\Debug\net8.0\Context.dll
+C:\Users\User\source\repos\Sales Date Prediction\BusinessLogic\bin\Debug\net8.0\Entities.dll
+C:\Users\User\source\repos\Sales Date Prediction\BusinessLogic\bin\Debug\net8.0\Context.pdb
+C:\Users\User\source\repos\Sales Date Prediction\BusinessLogic\bin\Debug\net8.0\Entities.pdb
+C:\Users\User\source\repos\Sales Date Prediction\BusinessLogic\obj\Debug\net8.0\Business.CF5D6E35.Up2Date
+C:\Users\User\source\repos\Sales Date Prediction\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+C:\Users\User\source\repos\Sales Date Prediction\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+C:\Users\User\source\repos\Sales Date Prediction\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+C:\Users\User\source\repos\Sales Date Prediction\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\BusinessLogic\bin\Debug\net8.0\Context.dll
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\BusinessLogic\bin\Debug\net8.0\Entities.dll
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\BusinessLogic\bin\Debug\net8.0\Context.pdb
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\BusinessLogic\bin\Debug\net8.0\Entities.pdb
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\BusinessLogic\obj\Debug\net8.0\Business.CF5D6E35.Up2Date
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll

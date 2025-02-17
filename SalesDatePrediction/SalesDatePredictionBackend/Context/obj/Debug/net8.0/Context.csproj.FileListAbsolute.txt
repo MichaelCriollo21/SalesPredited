@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\Sales Date Prediction\Context\bin\Debug\net8.0\Context.deps.json
+C:\Users\User\source\repos\Sales Date Prediction\Context\bin\Debug\net8.0\Context.dll
+C:\Users\User\source\repos\Sales Date Prediction\Context\bin\Debug\net8.0\Context.pdb
+C:\Users\User\source\repos\Sales Date Prediction\Context\bin\Debug\net8.0\Entities.dll
+C:\Users\User\source\repos\Sales Date Prediction\Context\bin\Debug\net8.0\Entities.pdb
+C:\Users\User\source\repos\Sales Date Prediction\Context\obj\Debug\net8.0\Context.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Sales Date Prediction\Context\obj\Debug\net8.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Sales Date Prediction\Context\obj\Debug\net8.0\Context.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Sales Date Prediction\Context\obj\Debug\net8.0\Context.AssemblyInfo.cs
+C:\Users\User\source\repos\Sales Date Prediction\Context\obj\Debug\net8.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sales Date Prediction\Context\obj\Debug\net8.0\Context.csproj.Up2Date
+C:\Users\User\source\repos\Sales Date Prediction\Context\obj\Debug\net8.0\Context.dll
+C:\Users\User\source\repos\Sales Date Prediction\Context\obj\Debug\net8.0\refint\Context.dll
+C:\Users\User\source\repos\Sales Date Prediction\Context\obj\Debug\net8.0\Context.pdb
+C:\Users\User\source\repos\Sales Date Prediction\Context\obj\Debug\net8.0\ref\Context.dll
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\Context\bin\Debug\net8.0\Context.deps.json
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\Context\bin\Debug\net8.0\Context.dll
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\Context\bin\Debug\net8.0\Context.pdb
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\Context\bin\Debug\net8.0\Entities.dll
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\Context\bin\Debug\net8.0\Entities.pdb
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\Context\obj\Debug\net8.0\Context.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\Context\obj\Debug\net8.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\Context\obj\Debug\net8.0\Context.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\Context\obj\Debug\net8.0\Context.AssemblyInfo.cs
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\Context\obj\Debug\net8.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\Context\obj\Debug\net8.0\Context.csproj.Up2Date
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\Context\obj\Debug\net8.0\Context.dll
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\Context\obj\Debug\net8.0\refint\Context.dll
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\Context\obj\Debug\net8.0\Context.pdb
+C:\Users\User\source\repos\SalesDatePrediction\SalesDatePredictionBackend\Context\obj\Debug\net8.0\ref\Context.dll

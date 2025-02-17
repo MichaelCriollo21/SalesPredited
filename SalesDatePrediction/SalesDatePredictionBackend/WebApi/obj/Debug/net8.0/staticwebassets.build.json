@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "+jy+j+66ALY8GzhLi3eV8EMTFLhwURfuLdYVmQUgFzE=",
+  "Source": "WebApi.SalesPrediction",
+  "BasePath": "_content/WebApi.SalesPrediction",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

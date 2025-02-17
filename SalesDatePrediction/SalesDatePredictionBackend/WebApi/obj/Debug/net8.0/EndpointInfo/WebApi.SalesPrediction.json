@@ -1,0 +1,222 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "WebApi.SalesPrediction",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Employee/All": {
+      "get": {
+        "tags": [
+          "Employee"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Order/GetOrderByClient/{customerId}": {
+      "post": {
+        "tags": [
+          "Order"
+        ],
+        "parameters": [
+          {
+            "name": "customerId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Order/Create": {
+      "post": {
+        "tags": [
+          "Order"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/OrderRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/OrderRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/OrderRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/PredictedOrder/PredictedOrders": {
+      "get": {
+        "tags": [
+          "PredictedOrder"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Product/All": {
+      "get": {
+        "tags": [
+          "Product"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Shipper/All": {
+      "get": {
+        "tags": [
+          "Shipper"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Order": {
+        "type": "object",
+        "properties": {
+          "orderId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "custId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "empId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "orderDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "requiredDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "shippedDate": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "shipperId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "freight": {
+            "type": "number",
+            "format": "double"
+          },
+          "shipName": {
+            "type": "string",
+            "nullable": true
+          },
+          "shipAddress": {
+            "type": "string",
+            "nullable": true
+          },
+          "shipCity": {
+            "type": "string",
+            "nullable": true
+          },
+          "shipRegion": {
+            "type": "string",
+            "nullable": true
+          },
+          "shipPostalCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "shipCountry": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "OrderDetail": {
+        "required": [
+          "discount",
+          "qty",
+          "unitPrice"
+        ],
+        "type": "object",
+        "properties": {
+          "orderId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "productId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "unitPrice": {
+            "type": "number",
+            "format": "double"
+          },
+          "qty": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "discount": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "OrderRequest": {
+        "type": "object",
+        "properties": {
+          "order": {
+            "$ref": "#/components/schemas/Order"
+          },
+          "orderDetail": {
+            "$ref": "#/components/schemas/OrderDetail"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

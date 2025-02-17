@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6AB8AF-D826-4D6B-BF63-773E02A8F2EA}|WebApi\\WebApi.SalesPrediction.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE6AB8AF-D826-4D6B-BF63-773E02A8F2EA}|WebApi\\WebApi.SalesPrediction.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6AB8AF-D826-4D6B-BF63-773E02A8F2EA}|WebApi\\WebApi.SalesPrediction.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE6AB8AF-D826-4D6B-BF63-773E02A8F2EA}|WebApi\\WebApi.SalesPrediction.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6AB8AF-D826-4D6B-BF63-773E02A8F2EA}|WebApi\\WebApi.SalesPrediction.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6AB8AF-D826-4D6B-BF63-773E02A8F2EA}|WebApi\\WebApi.SalesPrediction.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6AB8AF-D826-4D6B-BF63-773E02A8F2EA}|WebApi\\WebApi.SalesPrediction.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\webapi\\controllers\\predictedordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6AB8AF-D826-4D6B-BF63-773E02A8F2EA}|WebApi\\WebApi.SalesPrediction.csproj|solutionrelative:webapi\\controllers\\predictedordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D797A191-D67A-4F3B-8EE5-D903AFB4DDA2}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\businesslogic\\class\\predictedorderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D797A191-D67A-4F3B-8EE5-D903AFB4DDA2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\class\\predictedorderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1492E249-909A-4099-9674-2878915101D5}|Context\\Context.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\context\\context\\salespredictioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1492E249-909A-4099-9674-2878915101D5}|Context\\Context.csproj|solutionrelative:context\\context\\salespredictioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6AB8AF-D826-4D6B-BF63-773E02A8F2EA}|WebApi\\WebApi.SalesPrediction.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6AB8AF-D826-4D6B-BF63-773E02A8F2EA}|WebApi\\WebApi.SalesPrediction.csproj|solutionrelative:webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D797A191-D67A-4F3B-8EE5-D903AFB4DDA2}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\businesslogic\\interface\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D797A191-D67A-4F3B-8EE5-D903AFB4DDA2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interface\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D797A191-D67A-4F3B-8EE5-D903AFB4DDA2}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\businesslogic\\class\\orderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D797A191-D67A-4F3B-8EE5-D903AFB4DDA2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\class\\orderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733EC149-48FD-483E-B337-0C27B295877C}|Entities\\Entities.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\entities\\entities\\sales\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733EC149-48FD-483E-B337-0C27B295877C}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\sales\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6AB8AF-D826-4D6B-BF63-773E02A8F2EA}|WebApi\\WebApi.SalesPrediction.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6AB8AF-D826-4D6B-BF63-773E02A8F2EA}|WebApi\\WebApi.SalesPrediction.csproj|solutionrelative:webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D797A191-D67A-4F3B-8EE5-D903AFB4DDA2}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\businesslogic\\class\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D797A191-D67A-4F3B-8EE5-D903AFB4DDA2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\class\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6AB8AF-D826-4D6B-BF63-773E02A8F2EA}|WebApi\\WebApi.SalesPrediction.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\webapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6AB8AF-D826-4D6B-BF63-773E02A8F2EA}|WebApi\\WebApi.SalesPrediction.csproj|solutionrelative:webapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733EC149-48FD-483E-B337-0C27B295877C}|Entities\\Entities.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\entities\\entities\\hr\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733EC149-48FD-483E-B337-0C27B295877C}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\hr\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D797A191-D67A-4F3B-8EE5-D903AFB4DDA2}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\businesslogic\\interface\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D797A191-D67A-4F3B-8EE5-D903AFB4DDA2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interface\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1492E249-909A-4099-9674-2878915101D5}|Context\\Context.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\context\\class\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1492E249-909A-4099-9674-2878915101D5}|Context\\Context.csproj|solutionrelative:context\\class\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733EC149-48FD-483E-B337-0C27B295877C}|Entities\\Entities.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\entities\\dto\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733EC149-48FD-483E-B337-0C27B295877C}|Entities\\Entities.csproj|solutionrelative:entities\\dto\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6AB8AF-D826-4D6B-BF63-773E02A8F2EA}|WebApi\\WebApi.SalesPrediction.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\webapi\\controllers\\shippercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6AB8AF-D826-4D6B-BF63-773E02A8F2EA}|WebApi\\WebApi.SalesPrediction.csproj|solutionrelative:webapi\\controllers\\shippercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D797A191-D67A-4F3B-8EE5-D903AFB4DDA2}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\businesslogic\\class\\shipperbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D797A191-D67A-4F3B-8EE5-D903AFB4DDA2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\class\\shipperbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D797A191-D67A-4F3B-8EE5-D903AFB4DDA2}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\businesslogic\\interface\\ibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D797A191-D67A-4F3B-8EE5-D903AFB4DDA2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interface\\ibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D797A191-D67A-4F3B-8EE5-D903AFB4DDA2}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\businesslogic\\interface\\ishipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D797A191-D67A-4F3B-8EE5-D903AFB4DDA2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interface\\ishipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D797A191-D67A-4F3B-8EE5-D903AFB4DDA2}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\businesslogic\\interface\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D797A191-D67A-4F3B-8EE5-D903AFB4DDA2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interface\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D797A191-D67A-4F3B-8EE5-D903AFB4DDA2}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\businesslogic\\interface\\ipredictedorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D797A191-D67A-4F3B-8EE5-D903AFB4DDA2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interface\\ipredictedorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D797A191-D67A-4F3B-8EE5-D903AFB4DDA2}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\businesslogic\\class\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D797A191-D67A-4F3B-8EE5-D903AFB4DDA2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\class\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733EC149-48FD-483E-B337-0C27B295877C}|Entities\\Entities.csproj|c:\\users\\user\\source\\repos\\salesdateprediction\\salesdatepredictionbackend\\entities\\entities\\sales\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733EC149-48FD-483E-B337-0C27B295877C}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\sales\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\Context\\Class\\Repository.cs",
+              "RelativeDocumentMoniker": "Context\\Class\\Repository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\Context\\Class\\Repository.cs",
+              "RelativeToolTip": "Context\\Class\\Repository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswD4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:34:08.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShipperController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\WebApi\\Controllers\\ShipperController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ShipperController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\WebApi\\Controllers\\ShipperController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ShipperController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:41:06.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-15T22:21:39.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PredictedOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\WebApi\\Controllers\\PredictedOrderController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\PredictedOrderController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\WebApi\\Controllers\\PredictedOrderController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\PredictedOrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:45:54.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PredictedOrderBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\BusinessLogic\\Class\\PredictedOrderBL.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Class\\PredictedOrderBL.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\BusinessLogic\\Class\\PredictedOrderBL.cs",
+              "RelativeToolTip": "BusinessLogic\\Class\\PredictedOrderBL.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:36:18.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-15T18:43:09.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShipperBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\BusinessLogic\\Class\\ShipperBL.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Class\\ShipperBL.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\BusinessLogic\\Class\\ShipperBL.cs",
+              "RelativeToolTip": "BusinessLogic\\Class\\ShipperBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:55:19.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\BusinessLogic\\Class\\OrderBL.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Class\\OrderBL.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\BusinessLogic\\Class\\OrderBL.cs",
+              "RelativeToolTip": "BusinessLogic\\Class\\OrderBL.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAhwA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:55:35.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:43:10.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalesPredictionContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\Context\\Context\\SalesPredictionContext.cs",
+              "RelativeDocumentMoniker": "Context\\Context\\SalesPredictionContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\Context\\Context\\SalesPredictionContext.cs",
+              "RelativeToolTip": "Context\\Context\\SalesPredictionContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAArwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:45:54.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\BusinessLogic\\Class\\EmployeeBL.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Class\\EmployeeBL.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\BusinessLogic\\Class\\EmployeeBL.cs",
+              "RelativeToolTip": "BusinessLogic\\Class\\EmployeeBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:55:27.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IShipper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\BusinessLogic\\Interface\\IShipper.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Interface\\IShipper.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\BusinessLogic\\Interface\\IShipper.cs",
+              "RelativeToolTip": "BusinessLogic\\Interface\\IShipper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:53:31.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\BusinessLogic\\Interface\\IProduct.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Interface\\IProduct.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\BusinessLogic\\Interface\\IProduct.cs",
+              "RelativeToolTip": "BusinessLogic\\Interface\\IProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:58:49.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\WebApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\WebApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:31:00.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\BusinessLogic\\Interface\\IEmployee.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Interface\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\BusinessLogic\\Interface\\IEmployee.cs",
+              "RelativeToolTip": "BusinessLogic\\Interface\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:53:41.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\WebApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\WebApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIAwwCgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:44:06.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\WebApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\WebApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:30:05.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\BusinessLogic\\Class\\ProductBL.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Class\\ProductBL.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\BusinessLogic\\Class\\ProductBL.cs",
+              "RelativeToolTip": "BusinessLogic\\Class\\ProductBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:00:07.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrder.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\BusinessLogic\\Interface\\IOrder.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Interface\\IOrder.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\BusinessLogic\\Interface\\IOrder.cs",
+              "RelativeToolTip": "BusinessLogic\\Interface\\IOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:15:41.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\Entities\\Entities\\Sales\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Entities\\Entities\\Sales\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\Entities\\Entities\\Sales\\OrderDetail.cs",
+              "RelativeToolTip": "Entities\\Entities\\Sales\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:16:48.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPredictedOrder.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\BusinessLogic\\Interface\\IPredictedOrder.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Interface\\IPredictedOrder.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\BusinessLogic\\Interface\\IPredictedOrder.cs",
+              "RelativeToolTip": "BusinessLogic\\Interface\\IPredictedOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:35:31.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\Entities\\Entities\\HR\\Employee.cs",
+              "RelativeDocumentMoniker": "Entities\\Entities\\HR\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\Entities\\Entities\\HR\\Employee.cs",
+              "RelativeToolTip": "Entities\\Entities\\HR\\Employee.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:52:45.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\Entities\\DTO\\OrderRequest.cs",
+              "RelativeDocumentMoniker": "Entities\\DTO\\OrderRequest.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\Entities\\DTO\\OrderRequest.cs",
+              "RelativeToolTip": "Entities\\DTO\\OrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:48:42.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\BusinessLogic\\Interface\\IBase.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Interface\\IBase.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\BusinessLogic\\Interface\\IBase.cs",
+              "RelativeToolTip": "BusinessLogic\\Interface\\IBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:53:57.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\Entities\\Entities\\Sales\\Order.cs",
+              "RelativeDocumentMoniker": "Entities\\Entities\\Sales\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SalesDatePrediction\\SalesDatePredictionBackend\\Entities\\Entities\\Sales\\Order.cs",
+              "RelativeToolTip": "Entities\\Entities\\Sales\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:16:39.827Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

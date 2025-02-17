@@ -1,0 +1,74 @@
+[
+  {
+    "ContainingType": "WebApi.SalesPrediction.Controllers.EmployeeController",
+    "Method": "FindAll",
+    "RelativePath": "api/Employee/All",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.SalesPrediction.Controllers.OrderController",
+    "Method": "Create",
+    "RelativePath": "api/Order/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Entities.DTO.OrderRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.SalesPrediction.Controllers.OrderController",
+    "Method": "GetOrderByClient",
+    "RelativePath": "api/Order/GetOrderByClient/{customerId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.SalesPrediction.Controllers.PredictedOrderController",
+    "Method": "PredictedOrders",
+    "RelativePath": "api/PredictedOrder/PredictedOrders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.SalesPrediction.Controllers.ProductController",
+    "Method": "FindAll",
+    "RelativePath": "api/Product/All",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.SalesPrediction.Controllers.ShipperController",
+    "Method": "FindAll",
+    "RelativePath": "api/Shipper/All",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
